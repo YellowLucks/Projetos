@@ -1,3 +1,4 @@
+
 from math import sin, cos, tan, radians
 angulo = float(input('informe o angulo: '))
 

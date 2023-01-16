@@ -6,3 +6,4 @@ litro = 2
 gasto = area/litro
 
 print('A area da parede é {:.0f} metros e a quantidade de tinta gasta vai ser de {:.0f} litros'.format(area, gasto))
+

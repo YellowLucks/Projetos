@@ -5,3 +5,4 @@ porc = 1+(aumento/100)
 nsalario = salario * porc
 
 print('seu novo salario é {:.2f}'.format(nsalario))
+

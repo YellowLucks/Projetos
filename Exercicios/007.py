@@ -8,3 +8,4 @@ media = (P1 + P2)/2
 
 #SAIDA
 print('Sua media foi {:.1f}'.format(media))
+

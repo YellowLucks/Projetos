@@ -7,4 +7,3 @@ if (algo.isalnum() == True):
 
 else:
     print('"{}" nao é alphanumerico'.format(algo))
-

@@ -10,3 +10,4 @@ alunos = [a1, a2, a3, a4]
 shuffle(alunos)
 
 print('A ordem de apresentação sera {}'.format(alunos))
+

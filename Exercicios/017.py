@@ -5,3 +5,4 @@ adjacente = float(input('digite o cateto adjacente: '))
 hipotenusa = hypot(oposto, adjacente)
 
 print('A hipotenusa é {:.2f}'.format(hipotenusa))
+
